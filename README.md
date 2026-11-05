@@ -1,7 +1,9 @@
-# NME Resource Explorer (unofficial)
+# Moved: this tool is now Nerdio Atlas
 
-A password-protected single-page tool that shows which Azure and Entra ID resources, and which API permissions, Nerdio Manager for Enterprise features require.
+The **NME Resource Explorer (unofficial)** has been renamed **Nerdio Atlas** and moved to a new address:
 
-The published page is encrypted (AES-256-GCM, key derived from the password with PBKDF2) and is decrypted in your browser after you enter the password. Ask the maintainer for access.
+**https://ned-46.github.io/nerdio-atlas/** (repository: [Ned-46/nerdio-atlas](https://github.com/Ned-46/nerdio-atlas))
 
-**Disclaimer:** This is an unofficial community tool. It is not affiliated with, endorsed by, or supported by Nerdio. Nerdio and its logo are trademarks of their owner. The data reflects NME 8.0 and may be out of date or incomplete. It is provided as-is with no warranty. Verify everything against your own deployment and Nerdio's official documentation.
+This repository is no longer updated. The old page now only shows a "moved" notice; earlier versions of the (encrypted) tool remain in the git history. The password is unchanged.
+
+**Disclaimer:** This is an unofficial community tool. Nerdio and its logo are trademarks of their owner.
